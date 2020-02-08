@@ -1,0 +1,222 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@font-face{
+    src: url(../Font/Merriweather-Regular.ttf);
+    font-family: "Meri";
+}
+@font-face{
+    src: url(../Font/Montserrat-Regular.ttf);
+    font-family: "Mont";
+}
+@font-face{
+    src: url(../Font/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
+}
+#name{
+    font-family: "Sacramento";
+    font-size: 60px;
+    text-align: center;
+}
+.content{
+    padding: 100px;
+}
+
+
+.cloud{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 10px;
+    float: left;
+    height: 75px;
+}
+.clouds{
+    position: absolute;
+    margin-left: 100px;
+    height: 75px;
+    border-radius: 50px;
+}
+
+
+
+
+.mountain{
+    position: absolute;
+    float: left;
+    margin-left: 400px;
+    line-height: 50%;
+    height: 40%;
+}
+.browser{
+    height: 100px;
+    margin-top: 300px;
+    margin-left: 550px;
+    border-radius: 50px;
+
+}
+
+
+
+
+.skill{
+    text-align: center;
+    font-family: "Meri";
+}
+#message{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Sacramento";
+}
+#talents{
+    text-align: center;
+    margin-top: 75px;
+    font-family: "Meri";
+}
+#webdesigner{
+    text-align: left;
+    font-size: 20px;
+    float: initial;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-family: "Meri";
+    font-size: 20px;
+}
+.talentp1{
+    margin-left: 150px;
+    margin-top: 40px;
+    font-family: "Mont";
+    font-size: 20px;
+}
+.talentp2{
+    margin-left: 150px;
+    font-family: "Mont";
+    font-size: 20px;
+    margin-top: 5px;
+}
+.browser2{
+    height: 100px;
+    position: absolute;
+    padding: 10px;
+}
+.no{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    font-family: "Mont";
+}
+.yes{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: "Mont";
+}
+
+.link{
+    
+    text-align: center;
+    font-family: "Mont";
+    background-color:brown;
+    padding: 10px;
+    color: black;
+    
+}
+.navigation{
+    color: black;
+}
+.click{
+    margin-top: 100px;
+    margin-left: 550px;
+    font-family: "Mont";
+}
+.content{
+    background-color: burlywood;
+    background-size: cover;
+    
+}
+#hobby{
+    text-align: center;
+    margin-top: 75px;
+    font-family: "Meri";
+}
+.hobbyp1{
+    margin-left: 150px;
+    font-family: "Mont";
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+
+.hobbyp2{
+    margin-left: 150px;
+    font-family: "Mont";
+    font-size: 20px;
+    
+}
+.tae{
+    height: 100px;
+    position: absolute;
+    padding: 10px;
+
+}
+
+.maybe{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: "Mont";
+}
+
+.not{
+     text-align: center;
+    margin-top: 25px;
+    font-size: 20px;
+    font-family: "Mont";
+    font-weight: bold;
+}
+
+#dream{
+    text-align: center;
+    margin-top: 75px;
+    font-family: "Meri";
+    font-size: 35px;
+}
+
+.pwet{
+    height: 100px;
+    position: absolute;
+    padding: 10px;
+    
+}
+
+
+
+
+
+#pwet:hover{
+    background: red;
+    border: 4px dashed slateblue;
+    border-radius: 50px;
+    border: none;
+} 
+.dreamp1{
+    margin-left: 150px;
+    font-family: "Mont";
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.dreamp2{
+    margin-left: 150px;
+    font-family: "Mont";
+    font-size: 20px;
+}
+
+.gwapo{
+    height: 100px;
+    position: absolute;
+    padding: 10px;
+}
+
